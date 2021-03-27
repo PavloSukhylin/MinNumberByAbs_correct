@@ -1,3 +1,5 @@
+package com.alevel.adv;
+
 public class MinNumberByAbs {
         public static void main(String[] args) {
             float firstNumber = -23f;
